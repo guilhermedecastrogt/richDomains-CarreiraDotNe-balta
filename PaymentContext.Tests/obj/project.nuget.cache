@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "9TNeNvgLrgAS9AiIFaOsQXY26zszRdqmmBmb3di0aGu9ITu1hzLW7LrO/OOqNRfOVfZntzKf+24L4VeEZuxTcw==",
+  "dgSpecHash": "SAHfBWp2tzkY5rwaVepW0a2qUsgpWymtLzhKQZFHZCJmjhh0yWimqM7r5lv0GjGr/rrjH5GPKUhgqW4fzBHhcg==",
   "success": true,
   "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\RichDomains\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.net.test.sdk\\17.5.0\\microsoft.net.test.sdk.17.5.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
