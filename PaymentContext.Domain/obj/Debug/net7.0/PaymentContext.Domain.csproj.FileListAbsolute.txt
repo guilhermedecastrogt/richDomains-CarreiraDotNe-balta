@@ -10,3 +10,6 @@ C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\n
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\refint\PaymentContext.Domain.dll
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.pdb
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\ref\PaymentContext.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Shared.dll
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Shared.pdb
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.CopyComplete

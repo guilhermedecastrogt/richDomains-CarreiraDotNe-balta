@@ -97,3 +97,6 @@ C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\obj\Debug\ne
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.pdb
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\obj\Debug\net7.0\PaymentContext.Tests.genruntimeconfig.cache
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\obj\Debug\net7.0\ref\PaymentContext.Tests.dll
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.dll
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.pdb
