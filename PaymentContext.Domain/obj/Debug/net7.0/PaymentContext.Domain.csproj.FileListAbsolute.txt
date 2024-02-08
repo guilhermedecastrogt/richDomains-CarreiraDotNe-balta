@@ -1,0 +1,12 @@
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.deps.json
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\bin\Debug\net7.0\PaymentContext.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\refint\PaymentContext.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\PaymentContext.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Domain\obj\Debug\net7.0\ref\PaymentContext.Domain.dll
