@@ -1,4 +1,5 @@
 ﻿using PaymentContext.Domain.Entities;
+using PaymentContext.Domain.ValueObjects;
 
 namespace PaymentContext.Tests.Entities;
 
@@ -8,8 +9,7 @@ public class StudentTests
     [TestMethod]
     public void TestMethod1()
     {
-        //var subscription = new Subscription(null);
-        //var student = new Student("Bruce", "Wayne", "12345678911", "bruce@gmail.com");
-        //student.AddSubscription(subscription);
+        var name = new Name("Bruce", "Wayne");
+        
     }
 }

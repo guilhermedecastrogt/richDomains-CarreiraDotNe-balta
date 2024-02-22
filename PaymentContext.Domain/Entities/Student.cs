@@ -1,4 +1,5 @@
-﻿using PaymentContext.Domain.ValueObjects;
+﻿using Flunt.Notifications;
+using PaymentContext.Domain.ValueObjects;
 using PaymentContext.Shared.Entities;
 
 namespace PaymentContext.Domain.Entities;
@@ -12,12 +13,15 @@ public class Student : Entity
         Document = document;
         Email = email;
         _subscriptions = new List<Subscription>();
+        
+        if(string.IsNullOrEmpty(Name.FirstName))
+            AddNotification("Name.FirstName", "Nome inválido // Invalid name");
     }
 
     public Name Name { get; set; }
     public Document Document { get; private set; }
     public Email Email { get; private set; }
-    public Address Address { get; private set; }
+    public Address  Address { get; private set; }
     
     public IReadOnlyCollection<Subscription> Subscriptions { get { return _subscriptions.ToArray(); } }
     
