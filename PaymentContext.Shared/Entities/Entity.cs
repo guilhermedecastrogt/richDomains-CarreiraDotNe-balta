@@ -5,7 +5,7 @@ namespace PaymentContext.Shared.Entities;
 
 public abstract class Entity : Notifiable<Notification>
 {
-    protected Entity(Guid id)
+    protected Entity()
     {
         Id = Guid.NewGuid();
     }

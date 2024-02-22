@@ -102,3 +102,4 @@ C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\ne
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Shared.pdb
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Domain.dll
 C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\net7.0\PaymentContext.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\RichDomains\PaymentContext.Tests\bin\Debug\net7.0\Flunt.dll
